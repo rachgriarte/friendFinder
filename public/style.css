@@ -1,0 +1,33 @@
+body {
+    background-image: url("../sfc.jpg");
+    font-family: 'Kaushan Script', cursive;
+    color: red;
+}
+/* home.html */
+.home {
+    background-color: orange;
+    opacity: .7;
+    color: red;
+    border: 3px solid red;
+    padding: 10px;
+    margin: 30px 60px;
+    border-top-right-radius: 5em;
+    border-bottom-left-radius: 5em;
+}
+/* survey.html */
+/* Header(Home, API, and Github Repo) */
+header {
+    background: white;
+    padding: 10px;
+}
+.container {
+    background: white;
+    opacity: .7;
+    color: red;
+    float: right;
+    border: 3px solid red;
+    padding: 30px;
+    margin: 30px 60px;
+    border-top-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+}
